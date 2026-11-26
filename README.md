@@ -88,7 +88,7 @@ Branch: Computer Science and Engineering
 
 👨‍💻 Developer
 
-Name: Yash Raj
+Name: Atharva Shukla
 
 Project Title: Vehicle Rental Management System
 
